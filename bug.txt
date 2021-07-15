@@ -1,0 +1,2 @@
+1. Jika pilih 2 kelas, maka nilai terbesar dan terkecil salah
+2. jika habis edit data, kembali ke statistik, akan salah juga
